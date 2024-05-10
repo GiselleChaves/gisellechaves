@@ -3,7 +3,7 @@
 
 - 💻 I’m currently as Software Engeneering Intern at AGES-PUCRS
 - 🫱🏻‍🫲🏽  I’m usualy to collaborate on projects with classmates
-- ⚡ Fun fact: I´m graduate in Hospitality since 2014.
+- ⚡ Fun fact: I have a degree in Hospitality since 2014 and I have a 10 year old son.
 
 ## Tools and Technologies
 
