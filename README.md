@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Giselle,
 
-- 💻 I’m currently as Software Engeneering Intern at AGES-PUCRS
+- 💻 I’m currently as Software Analyst
 - 🫱🏻‍🫲🏽  I’m usualy to collaborate on projects with classmates
 - ⚡ Fun fact: I have a degree in Hospitality since 2014 and I have a 10 year old son.
 
